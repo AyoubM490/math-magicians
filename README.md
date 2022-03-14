@@ -50,7 +50,7 @@ Visit the live demo [here](https://bit.ly/3tI5qU1) -->
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/julie-ify/math-magicians/issues).
+Feel free to check the [issues page](https://github.com/AyoubMS/math-magicians/issues).
 
 ## Show your support
 
