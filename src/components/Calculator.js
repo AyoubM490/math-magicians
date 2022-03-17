@@ -47,7 +47,7 @@ const Calculator = () => {
             className="button colored"
             onClick={handleClick}
           >
-            /
+            ÷
           </button>
           <button type="button" className="button" onClick={handleClick}>
             7
