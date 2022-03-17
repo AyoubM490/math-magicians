@@ -47,7 +47,7 @@ const Calculator = () => {
             className="button colored"
             onClick={handleClick}
           >
-            &divide;
+            /
           </button>
           <button type="button" className="button" onClick={handleClick}>
             7
@@ -63,7 +63,7 @@ const Calculator = () => {
             className="button colored"
             onClick={handleClick}
           >
-            &times;
+            x
           </button>
           <button type="button" className="button" onClick={handleClick}>
             4
@@ -79,7 +79,7 @@ const Calculator = () => {
             className="button colored"
             onClick={handleClick}
           >
-            &minus;
+            -
           </button>
           <button type="button" className="button" onClick={handleClick}>
             1
