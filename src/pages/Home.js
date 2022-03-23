@@ -10,7 +10,7 @@ const Home = () => (
         lectus vitae ante aliquet lobortis. Integer nec elementum augue. Morbi
         imperdiet gravida elit id pulvinar. Fusce scelerisque eleifend pretium.
         In ultrices mi nec lacinia lacinia. Nulla facilisi. In vestibulum nulla
-        sed tempor vehicula.
+        sed tempor vehicula. Learn React.
       </p>
       <p className="homeParagraph">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce tellus
