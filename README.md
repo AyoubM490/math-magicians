@@ -49,7 +49,7 @@ Visit the live demo [here](https://bit.ly/3tI5qU1) -->
 ## Deploy
 
 - Netlify: https://math-magician-ayoub-26628d.netlify.live/
-- Heroku:
+- Heroku: https://math-magicians-1.herokuapp.com/
 
 ## 🤝 Contributing
 
