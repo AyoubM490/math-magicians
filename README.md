@@ -46,6 +46,11 @@ Visit the live demo [here](https://bit.ly/3tI5qU1) -->
 - [GitHub](https://github.com/AyoubMS)
 - [LinkedIn](https://www.linkedin.com/in/ayoub-chahir/)
 
+## Deploy
+
+- Netlify: https://math-magician-ayoub-26628d.netlify.live/
+- Heroku:
+
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
