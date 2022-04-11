@@ -4,16 +4,12 @@
 
 > "Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and Read a random math-related quote.
 
-<!-- ![screenshot](./src/assets/images/scrnsht.png) -->
+![screenshot](./public/images/math1-img.png)
+![screenshot](./public/images/math2-img.png)
 
 ## Built With
 
-- HTML
-- CSS
-- JavaScript
 - React
-<!-- ## Live Demo
-Visit the live demo [here](https://bit.ly/3tI5qU1) -->
 
 ## Getting Started
 
@@ -45,6 +41,11 @@ Visit the live demo [here](https://bit.ly/3tI5qU1) -->
 
 - [GitHub](https://github.com/AyoubMS)
 - [LinkedIn](https://www.linkedin.com/in/ayoub-chahir/)
+
+## Deploy
+
+- Netlify: https://math-magician-ayoub-26628d.netlify.live/
+- Heroku: https://math-magicians-1.herokuapp.com/
 
 ## 🤝 Contributing
 
